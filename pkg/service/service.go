@@ -1,6 +1,6 @@
 package service
 
-import "github.com/Blxssy/todo-app/pkg/repository"
+import "github.com/Blxssy/RestAPI-TodoList/pkg/repository"
 
 type Authorization interface {
 }

@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/Blxssy/todo-app"
-	"github.com/Blxssy/todo-app/pkg/handler"
-	"github.com/Blxssy/todo-app/pkg/repository"
-	"github.com/Blxssy/todo-app/pkg/service"
+	"github.com/Blxssy/RestAPI-TodoList"
+	"github.com/Blxssy/RestAPI-TodoList/pkg/handler"
+	"github.com/Blxssy/RestAPI-TodoList/pkg/repository"
+	"github.com/Blxssy/RestAPI-TodoList/pkg/service"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
 	"github.com/spf13/viper"

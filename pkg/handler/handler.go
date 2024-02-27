@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"github.com/Blxssy/todo-app/pkg/service"
+	"github.com/Blxssy/RestAPI-TodoList/pkg/service"
 	"github.com/gin-gonic/gin"
 )
 
